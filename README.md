@@ -1,6 +1,10 @@
 # TL;DR
 
+## First build the image
+
 `docker build -t proxy .`
+
+## And then run
 `docker run -d -p 3128:3128 proxy`
 
 
