@@ -1,3 +1,9 @@
+# TL;DR
+
+`docker build -t proxy .`
+`docker run -d -p 3128:3128 proxy`
+
+
 [![Circle CI](https://circleci.com/gh/sameersbn/docker-squid.svg?style=shield)](https://circleci.com/gh/sameersbn/docker-squid) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/squid/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/squid)
 
 # sameersbn/squid:3.3.8-23
